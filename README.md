@@ -13,7 +13,7 @@ This is where our story begins.
 From here you will go on a journey to discover who TASK is and what they are really up to.
 The user will interact with SILVIA throughout the story and be tasked with navigating through linux based systems to uncover the story.
 There are be choices to be made that will have consequences on the ending of the story.
-Throughout the story there will be commands given to you that you can eneter but extra commands were also added, try find them yourself or use the cheat sheet below. *SPOILER WARNING*
+Throughout the story there will be commands given to you that you can enter but extra commands were also added, try find them yourself or use the cheat sheet below. *SPOILER WARNING*
 
 ### Cheet Sheet *SPOILER WARNING*
 
