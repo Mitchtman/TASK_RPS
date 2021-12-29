@@ -1002,11 +1002,11 @@ while unkn0wn_ending == 1:
             time.sleep(5)
         if me != 1:
             
-            print(Fore.GREEN + "unkn0wn_host: enter: curl http:///Mjx0nbaa.el/fH4ltPYHS5KK9.exe" + Fore.RESET)
+            print(Fore.GREEN + "unkn0wn_host: enter: curl http://Mjx0nbaa.el/fH4ltPYHS5KK9.exe" + Fore.RESET)
             time.sleep(3)
             ayo = 1;
             command1 = input("admin@UbuntuDesktop:~/Cooling_System$ ")
-        if command1 == "curl http:///Mjx0nbaa.el/fH4ltPYHS5KK9.exe":
+        if command1 == "curl http://Mjx0nbaa.el/fH4ltPYHS5KK9.exe":
             if me == 0:
                 time.sleep(1)
                 print("connection established")
