@@ -1,4 +1,4 @@
-![Age](https://dynamic-badges.maxalpha.repl.co/age/21/12/2021)
+![Age](https://dynamic-badges.maxalpha.repl.co/age/12/21/2021)
 
 ## HOW TO RUN
 
