@@ -1,3 +1,5 @@
+![Age](https://dynamic-badges.maxalpha.repl.co/age/12/08/2004)
+
 ## HOW TO RUN
 
 Due to the file not being signed or having any publisher details windows might think the app is malware
