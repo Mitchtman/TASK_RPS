@@ -1,3 +1,12 @@
+## HOW TO RUN
+
+Due to the file not being signed or having any publisher details windows might think the app is malware
+I will attempt to resolve this is the future
+
+The safest way to run this game on your computer is by downloading the mitchs_game_update.py file in the SOURCE CODE folder and run it through a python shell.
+You will need to install colourama to run the game this way. Version: colorama-0.4.4 Site: https://pypi.org/project/colorama/ 
+You will also need python installed. Version: 3.8.5 Site: https://www.python.org/downloads/ 
+
 ## Purpose
 
 The files in this repository are for that of a story game created with python version 3.8.5
